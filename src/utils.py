@@ -56,3 +56,4 @@ def show_centroid_colors(centroids):
     plt.xticks(num)
     plt.yticks([])
     plt.imshow(palette)
+print("testing this code and using git and github")
