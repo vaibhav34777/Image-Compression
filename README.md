@@ -14,3 +14,4 @@ Compression Comparison: Compare the original image with the compressed one in te
 ### Results ###
 The project demonstrates a significant reduction in the number of colors used in the image while maintaining visual similarity to the original.
 As the value of K increases, the compressed image retains more of the original quality but results in less compression.
+## subheader
